@@ -1,2 +1,2 @@
-# microbe_sbmls
-microbe sbmls files
+# microbe sbmls
+microbe sbml files
